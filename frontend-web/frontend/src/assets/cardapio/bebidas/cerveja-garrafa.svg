@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cerveja garrafa</title>
+  <desc id="desc">Ilustracao de garrafa de cerveja gelada</desc>
+  <rect width="640" height="420" fill="#fffaf2"/>
+  <circle cx="435" cy="105" r="110" fill="#f3b547" opacity=".7"/>
+  <circle cx="172" cy="324" r="128" fill="#1f6d4a" opacity=".14"/>
+  <g transform="translate(230 34)">
+    <path d="M98 0h74v70c0 24 35 52 35 98v170c0 26-20 48-46 48h-52c-26 0-46-22-46-48V168c0-46 35-74 35-98V0z" fill="#12462f"/>
+    <rect x="100" y="18" width="70" height="54" rx="12" fill="#1f6d4a"/>
+    <rect x="76" y="172" width="118" height="86" rx="16" fill="#f3b547"/>
+    <text x="135" y="207" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#12462f">600ml</text>
+    <text x="135" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="800" fill="#12462f">GELADA</text>
+    <path d="M46 36 28 14M222 44l22-24M48 340l-24 28M226 342l26 30" stroke="#9e2b20" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

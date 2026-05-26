@@ -101,8 +101,16 @@ Ele representa a tela principal da lanchonete para uso em navegador.
 | X-Bacon Crocante | Lanches | R$ 24,00 |
 | Batata Frita | Porcoes | R$ 12,00 |
 | Combo Universitario | Combos | R$ 31,00 |
+| X-Salada Especial | Lanches | R$ 21,00 |
+| Smash Duplo | Lanches | R$ 29,00 |
+| Frango Crispy | Lanches | R$ 23,00 |
+| Onion Rings | Porcoes | R$ 16,00 |
+| Combo Smash | Combos | R$ 39,00 |
+| Combo Familia | Combos | R$ 69,00 |
 | Refrigerante Lata | Bebidas | R$ 7,00 |
 | Suco Natural | Bebidas | R$ 10,00 |
+| Cerveja Zero Grau | Bebidas | R$ 12,00 |
+| Cerveja Garrafa 600ml | Bebidas | R$ 18,00 |
 
 ### Como rodar o frontend web
 

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Cerveja zero grau</title>
+  <desc id="desc">Ilustracao de copo de cerveja bem gelada</desc>
+  <rect width="640" height="420" fill="#fffaf2"/>
+  <circle cx="438" cy="106" r="110" fill="#f3b547" opacity=".7"/>
+  <circle cx="172" cy="324" r="128" fill="#1f6d4a" opacity=".14"/>
+  <g transform="translate(210 44)">
+    <path d="M62 82h166l-20 250H82L62 82z" fill="#f3b547"/>
+    <path d="M78 112h134l-14 188H92L78 112z" fill="#f7c23c"/>
+    <path d="M70 80c16-38 52-28 66-9 16-34 57-32 72 0 27-12 58 5 58 34 0 28-22 45-49 39H67c-34 4-61-17-52-48 8-28 35-36 55-16z" fill="#fffdf8"/>
+    <path d="M229 134h44c33 0 52 22 49 55-3 34-28 55-62 55h-29" fill="none" stroke="#12462f" stroke-width="18" stroke-linecap="round"/>
+    <text x="145" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#12462f">ZERO</text>
+    <text x="145" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#12462f">GRAU</text>
+    <path d="M34 22 18 6M276 28l18-18M48 324l-18 18M292 324l20 22" stroke="#9e2b20" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

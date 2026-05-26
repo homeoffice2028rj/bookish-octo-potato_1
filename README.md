@@ -23,7 +23,7 @@ O projeto tambem possui uma estrutura de aplicativo mobile em Expo/React Native 
 ## Funcionalidades do frontend
 
 - Tela inicial com identidade visual da lanchonete
-- Cardapio com produtos organizados por categorias
+- Cardapio com 14 produtos organizados por categorias
 - Campo de busca por produto
 - Botao para adicionar produtos ao pedido
 - Controle de quantidade no resumo do pedido
@@ -43,7 +43,7 @@ O projeto tambem possui uma estrutura de aplicativo mobile em Expo/React Native 
 
 - Estrutura inicial em Expo
 - Navegacao com Expo Router
-- Tela inicial com cardapio visual
+- Tela inicial com cardapio visual com 14 produtos
 - Produtos com imagens, categorias, descricao, preco e botao de adicionar
 - Tela de pedido com itens, quantidades e valor total
 - Selecao de forma de pagamento: Pix, cartao ou dinheiro

@@ -18,8 +18,16 @@ import xBurgerImage from "./assets/cardapio/comidas/x-burguer/free-photo-of-deli
 import xBaconImage from "./assets/cardapio/comidas/smash burguer/photo-1571091718767-18b5b1457add.avif";
 import batataImage from "./assets/cardapio/comidas/batata-frita/photo-1573080496219-bb080dd4f877.avif";
 import comboImage from "./assets/cardapio/combos/photo-1550547660-d9450f859349.avif";
+import xSaladaImage from "./assets/cardapio/comidas/x-salada/photo-1586190848861-99aa4a171e90.avif";
+import smashDuploImage from "./assets/cardapio/comidas/smash burguer/smash-burguer1.png";
+import frangoCrispyImage from "./assets/cardapio/combos/frango-crispy+fritas/premium_photo-1683657860968-7474e7ea2d80.avif";
+import onionRingsImage from "./assets/cardapio/comidas/cebola-crispy/photo-1625938146369-adc83368bda7.png";
+import comboCompletoImage from "./assets/cardapio/combos/cebolas+fritas+smash-burguer/photo-1581966626689-b63d790b3d49.avif";
+import comboDuploImage from "./assets/cardapio/combos/photo-1551782450-a2132b4ba21d.avif";
 import refrigeranteImage from "./assets/cardapio/bebidas/refrigerante.svg";
 import sucoImage from "./assets/cardapio/bebidas/suco-natural.svg";
+import cervejaImage from "./assets/cardapio/bebidas/cerveja-zero-grau.svg";
+import cervejaGarrafaImage from "./assets/cardapio/bebidas/cerveja-garrafa.svg";
 
 const menuItems = [
   {
@@ -64,6 +72,66 @@ const menuItems = [
   },
   {
     id: 5,
+    name: "X-Salada Especial",
+    category: "Lanches",
+    description: "Hambúrguer, queijo, alface, tomate, milho e molho da casa.",
+    price: 21,
+    tag: "Clássico",
+    rating: "4.7",
+    image: xSaladaImage,
+  },
+  {
+    id: 6,
+    name: "Smash Duplo",
+    category: "Lanches",
+    description: "Dois smash burgers, cheddar cremoso, picles e molho especial.",
+    price: 29,
+    tag: "Duplo",
+    rating: "4.9",
+    image: smashDuploImage,
+  },
+  {
+    id: 7,
+    name: "Frango Crispy",
+    category: "Lanches",
+    description: "Frango empanado crocante, queijo, alface e maionese temperada.",
+    price: 23,
+    tag: "Crocante",
+    rating: "4.8",
+    image: frangoCrispyImage,
+  },
+  {
+    id: 8,
+    name: "Onion Rings",
+    category: "Porções",
+    description: "Anéis de cebola crocantes com molho especial da casa.",
+    price: 16,
+    tag: "Porção",
+    rating: "4.6",
+    image: onionRingsImage,
+  },
+  {
+    id: 9,
+    name: "Combo Smash",
+    category: "Combos",
+    description: "Smash duplo, fritas médias e refrigerante lata.",
+    price: 39,
+    tag: "Completo",
+    rating: "4.9",
+    image: comboCompletoImage,
+  },
+  {
+    id: 10,
+    name: "Combo Família",
+    category: "Combos",
+    description: "Dois lanches, batata grande e duas bebidas.",
+    price: 69,
+    tag: "Família",
+    rating: "4.8",
+    image: comboDuploImage,
+  },
+  {
+    id: 11,
     name: "Refrigerante Lata",
     category: "Bebidas",
     description: "Lata gelada 350 ml. Escolha o sabor no atendimento.",
@@ -73,7 +141,7 @@ const menuItems = [
     image: refrigeranteImage,
   },
   {
-    id: 6,
+    id: 12,
     name: "Suco Natural",
     category: "Bebidas",
     description: "Feito na hora com fruta fresca. Laranja, limão ou maracujá.",
@@ -81,6 +149,26 @@ const menuItems = [
     tag: "Natural",
     rating: "4.8",
     image: sucoImage,
+  },
+  {
+    id: 13,
+    name: "Cerveja Zero Grau",
+    category: "Bebidas",
+    description: "Long neck trincando, perfeita para acompanhar os combos.",
+    price: 12,
+    tag: "Trincando",
+    rating: "4.9",
+    image: cervejaImage,
+  },
+  {
+    id: 14,
+    name: "Cerveja Garrafa 600ml",
+    category: "Bebidas",
+    description: "Garrafa gelada para dividir, servida no ponto trincando.",
+    price: 18,
+    tag: "Garrafa",
+    rating: "4.8",
+    image: cervejaGarrafaImage,
   },
 ];
 
